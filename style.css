@@ -1,0 +1,65 @@
+body{
+    padding: 30px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(https://png.pngtree.com/background/20210714/original/pngtree-simple-back-to-school-background-with-green-color-picture-image_1207817.jpg);
+    
+    
+}
+
+header{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1{
+    font-family: raleway;
+    font-weight: bold;
+    font-size: 60px;
+    color: white;
+}
+section{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    line-height: 20px;
+    font-family: raleway;
+    color: white;
+    width: 50%;
+    margin-left: 350px;
+    
+}
+.form{
+    border-radius: 10px;
+    height: 5px;
+    padding: 15px;
+    text-align: center;
+    border: none;
+    width: 130px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 120px;
+}
+
+#botao{
+    border-radius: 10px;
+    font-family: raleway;
+    background-color: rgb(112, 181, 112);
+    width: 100px;
+    height: 30px;
+    margin-top: 30px;
+    color: white;
+    font-weight: bold;
+    border: none;
+    align-items: center;
+    margin-left: 150px;
+    margin-bottom: 10px;
+
+}
+div{
+    display: flex;
+    flex-direction: column;
+}
+
